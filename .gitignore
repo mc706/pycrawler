@@ -1,0 +1,6 @@
+.idea
+
+ghostdriver.log
+
+sites/*
+!sites/.gitkeep
