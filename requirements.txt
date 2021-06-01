@@ -7,4 +7,4 @@ PyYAML==3.12
 requests==2.18.4
 selenium==3.6.0
 splinter==0.7.6
-urllib3==1.22
+urllib3==1.26.5
